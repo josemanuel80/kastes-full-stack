@@ -1,0 +1,15 @@
+{
+  "name": "kastes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces":[
+  "server",
+  "client"
+  ],
+  "private":true
+  
+}
